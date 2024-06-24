@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorNotificacionesCouchBase", "GestorNotificacionesCouchBase.csproj", "{828ADBFB-E958-4EA0-9CF7-2159AAAB7BCF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{0E8AE472-80D7-4E83-9C82-B3F3B2509FB9}"
+	ProjectSection(SolutionItems) = preProject
+		INotificationBucketProvider.cs = INotificationBucketProvider.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{828ADBFB-E958-4EA0-9CF7-2159AAAB7BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828ADBFB-E958-4EA0-9CF7-2159AAAB7BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828ADBFB-E958-4EA0-9CF7-2159AAAB7BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828ADBFB-E958-4EA0-9CF7-2159AAAB7BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F720B4D-0817-402B-92B4-A272EEE5CE7F}
+	EndGlobalSection
+EndGlobal
